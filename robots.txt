@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iepaetahru.wswenyue.vip/sitemap.xml
